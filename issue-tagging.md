@@ -17,7 +17,7 @@ Issues that make the product feel broken.
 
 Color: red
 
-*Example: bug, security*
+*Example: bug, security, confirmed, critical*
 
 ## Mindless
 
@@ -25,7 +25,7 @@ Converting measurements, reorganizing folder structure, and other necessary (but
 
 Color: yellow
 
-*Example: chore*
+*Example: chore, documentation, support*
 
 ## Experience
 
@@ -49,7 +49,7 @@ Requires further conversation to figure out the action steps. Most feature ideas
 
 Color: purple
 
-*Example: discussion, rfc, question*
+*Example: discussion, rfc, question, suggestion*
 
 ## Improvements
 
